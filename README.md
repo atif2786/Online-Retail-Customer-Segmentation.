@@ -1,5 +1,7 @@
 # Online-Retail-Customer-Segmentation.
 Unsupervised Machine Learning (K means clustering)
+![image](https://user-images.githubusercontent.com/90926349/183108511-443c7e1a-189e-448e-b517-113ddcba8902.png)
+
 
 # Problem Description :
 In this project, your task is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
